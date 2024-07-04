@@ -1,17 +1,6 @@
-# Snake-Java
+# Snake Java
 
-Welcome to the Snake-Java repository! This is a classic Snake game implemented in Java using Swing. The game features a retro design with enhanced visuals, including a background image, custom fonts, and colorful game elements.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+Welcome to the Snake Java repository! This is a classic Snake game implemented in Java using Swing. The game features a retro design with enhanced visuals, including a background image, custom fonts, and colorful game elements.
 
 ## Introduction
 
